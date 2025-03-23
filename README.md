@@ -1,6 +1,6 @@
 # Resume Builder
 
-![Resume Builder Logo](https://github.com/Deepu1004/Resume-Assemble-Public/blob/main/Images/Logo.jpeg)
+![Resume Builder Logo](https://github.com/Deepu1004/Resume-Assemble-Public/blob/main/Images/logo-png.png)
 
 ## **[Live Demo](https://snap-resume-builder.vercel.app/)** 🚀
 
@@ -19,58 +19,59 @@ Resume Builder is a web application designed to help users create, customize, an
 ## Screenshots
 
 ![Home Page](https://github.com/Deepu1004/Resume-Assemble-Public/blob/main/Images/HomePage.png)
-*Home page showcasing available templates.*
-
+_Home page showcasing available templates._
 
 ![Templates Selection](https://github.com/Deepu1004/Resume-Assemble-Public/blob/main/Images/Templates.png)
-*Wide range of Templates to select.*
+_Wide range of Templates to select._
 
 ![Editor View](https://github.com/Deepu1004/Resume-Assemble-Public/blob/main/Images/Form.png)
-*Real-time editor with preview functionality.*
+_Real-time editor with preview functionality._
 
 ![Preview Section](https://github.com/Deepu1004/Resume-Assemble-Public/blob/main/Images/Preview.png)
-*Live Updates in the preview section enhancing the user experience.*
+_Live Updates in the preview section enhancing the user experience._
 
 ## Getting Started
 
 To run the Resume Builder project locally, follow these steps:
 
 ### Prerequisites
+
 - Ensure you have **Node.js** installed on your system. You can download it from [Node.js official website](https://nodejs.org/).
 
 ### Installation & Running the Project
 
 1. **Clone the Repository**  
-   Open your terminal or command prompt and run:  
+   Open your terminal or command prompt and run:
    ```sh
    git clone https://github.com/Deepu1004/resumebuilder.git
    ```
-   
-2. **Navigate to the Project Directory**  
+2. **Navigate to the Project Directory**
+
    ```sh
    cd resumebuilder
    ```
 
 3. **Install Dependencies**  
-   Install all required node modules by running:  
+   Install all required node modules by running:
+
    ```sh
    npm install
    ```
 
 4. **Run the Development Server**  
-   Start the application using:  
+   Start the application using:
+
    ```sh
    npm run dev
    ```
 
 5. **Open the Application**  
-   Once the server is running, open your browser and go to:  
+   Once the server is running, open your browser and go to:
    ```
    http://localhost:5173
    ```
 
 Now, you can start building and customizing your resume with the Resume Builder! 🚀
-
 
 ## Usage
 
