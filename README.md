@@ -37,7 +37,7 @@ _Live Updates in the preview section enhancing the user experience._
 3. **Preview Changes**: See real-time updates as you edit your resume.
 4. **Download**: Once satisfied, download your resume in PDF format.
 
-## Contact
+## Contact 
 
 If you have any questions or suggestions, feel free to reach out:
 
